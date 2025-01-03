@@ -1,1 +1,1 @@
-# Schr-dinger-Bridge-Indicator
+# Schrodinger-Bridge-Indicator
